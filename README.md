@@ -29,7 +29,7 @@ All series are aligned on shared dates so every pairwise correlation uses the ex
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/crypto-correlation-matrix.git
+git clone https://github.com/tradeytrade/crypto-correlation-matrix.git
 cd crypto-correlation-matrix
 pip install -r requirements.txt
 ```
